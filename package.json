@@ -6,11 +6,13 @@
     "dev": "postbote serve"
   },
   "dependencies": {
+    "@postbote/cli": "^0.3.0",
     "@postbote/mjml-react": "^0.2.1",
-    "react": "^18.2.0"
+    "mjml": "^4.13.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@postbote/cli": "^0.2.2",
     "@types/node": "^18.7.22",
     "@types/react": "^18.0.21"
   }
