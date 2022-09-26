@@ -1,0 +1,17 @@
+{
+  "name": "test-postbote",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "postbote serve"
+  },
+  "dependencies": {
+    "@postbote/mjml-react": "^0.2.1",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@postbote/cli": "^0.2.2",
+    "@types/node": "^18.7.22",
+    "@types/react": "^18.0.21"
+  }
+}
